@@ -1,4 +1,7 @@
 # ai_art_creativity_cognition
+
+# Adventure on Synthetic Cognitions: AI, art, creativity and cognition
+
 Generative AI is reshaping creativity and strategy in tandem: Jeremy Utley’s “idea-flow” lens shows that large language models (LLMs) multiply the **volume** and **variance** of ideas, yet teams still underperform when they treat the machine as a clairvoyant instead of a colleague. My own practice frames this dynamic as **synthetic cognition**—an extended, embodied mind formed by dancers, datasets, and algorithms in the same improvisational loop. Blending Utley’s principles of experimentation, thought-partnership, and anti-satisficing with the performance-research methods behind *Born in Latent Space*, the framework below offers a theory of how AI can unlock radical imagination *and* rigorous strategy.
 
 ## 1. From Idea-Flow to Synthetic Cognition  
